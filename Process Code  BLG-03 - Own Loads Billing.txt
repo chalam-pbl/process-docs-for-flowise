@@ -1,2 +1,0 @@
-Step 1	For own loads, go to PLUM and complete the acknowledgment process - this will cause the GC entry to show up in PLUM under "Invoice - Own loads"
-Step 2	Pick the invoice in the "Invoice - Own Loads" screen and close the bill. As this relates to transportation that was done for our own needs, there is no bill to be raised, so the process is simple. The process needs to be gone through because every transportation activity must end in the billing process so that the accounting is clear.
