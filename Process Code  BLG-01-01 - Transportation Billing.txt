@@ -1,0 +1,38 @@
+Process Code:  BLG-01-01
+Process Name:  Transportation billing
+Department:  Billing
+Process Document available on SharePoint at: https://pbltransportpvt.sharepoint.com/:x:/r/sites/AccountsandFinance/SOP%20and%20WORKFLOWS/Process%20Documents%20for%20Copilot/Process%20Work%20Flows%20-%20main.xlsx?d=w1ec1a61883e74b99837f749e3085cd01&e=4%3a22869707e4e2400184e94bfbc73593e8&sharingv2=true&fromShare=true&at=9
+
+Step 1:	Once the Acknowledgement/ Bal payment is requested by the billing executive, the GC entry will now reflect in "Bill Pending" on PLUM	
+Step 2:	Billing Executive checks if any details like detention Charges, extra weight/dimension charges, enroute charges (e.g. RTO fines) are applicable or not
+Step 3:	if any of the charges are applicable Billing Executive takes confirmations from AE (account executive) and the Customer	
+Step 4:	If customer agrees to a different amount than the applicable charges, approval is taken from the AE and these revised  charges are updated in PLUM by the Billing Executive (Eg : the charges are 3500 but customer agreed only for 1500 then we will charge only 1500) - related dashboard for this is DB-BLG-52-08
+Step 5:	The Approval status for the additional charges is changed on PLUM by the Billing Executive before adding to the customer invoice - related dashboard is DB-BLG-52-08
+Step 6:	Once all the charges related to the delivery have been entered, create a proforma invoice	
+Step 7:	Send the proforma invoice to the customer and ask the customer to review and confirm it	
+Step 8:	If no reply from customer, do a follow-up call about the proforma invoice
+Step 9:	Make any changes or additions in the proforma invoice as instructed by the customer - examples could be changes to address / GST no etc.
+Step 10: When the confirmation of the proforma invoice is received from the customer, Billing Executive creates the TPTN (transportation) invoice & if it is an invoice to a customer in the SEZ, an SEZ invoice is created - related dashboard is DB-OPS-52-02-01 (RINL)
+Step 11: Once the invoice is created, Billing Executive contacts the AE and cross checks that all the details on the invoice such as freight amounts, detentions, extra weight charges, RTO charges are correct
+Step 12: Once the AE confirms these to the Billing Executive, the Billing Executive completes the TPTN verification & Posting steps on PLUM
+Step 13: Billing Executive generates the IRN and clicks on the 'documents merge' option before digitally signing the invoice - related dashboard is DB-OPS-52-02-02 (RINL)
+Step 14: Billing Executive sends a soft copy of  the invoice to the Customer & copies it to the Billing Asst via email
+Step 15: The invoice will now reflect in "Invoice sent to the customer - Inv ack confirmed pending" on PLUM - related dashboard is DB-BLG-12-01
+Step 16: The Billing Asst takes a printout of the covering letter, bill & LR documents and couriers them to the customer	
+Step 17: Once they are couriered, the courier receipt is added in "Posted TPTN Invoices" as an attachment by the Billing Assistant
+Step 18: The Billing Assistant then updates the courier data in PLUM
+Step 19: The Billing Assistant also updates the SharePoint Drive numbered SP-T&M-03 with the courier details
+Step 19: The Billing Assistant checks  the Courier status based on expected time of delivery using the courier's Tracking website
+Step 20a: If it is delivered, the Billing Assistant updates it in PLUM as "Delivered"
+Step 20b: If not delivered, the Billing Assistant follows up with courier
+Step 20c: If the customer has rejected the couriered invoice, the Billing Executive finds out the reasons for rejection from the customer and sends it again with the appropriate changes - for example, to a different address as confirmed by the customer
+Step 21: When PLUM has been updated that the couriered invoice has been delivered, the Finance Executive follows up with the customer for payment
+
+Dashboards:
+The dashboards related to this process and the responsibility to update and view them are as below:
+DB-BLG-52-08 - Billing Executive
+DB-BLG-73-02 - Billing Executive
+DB-OPS-52-02-01 (RINL) - Billing Executive
+DB-OPS-52-02-02 (RINL) - Billing Executive
+DB-BLG-12-01 - Billing Executive
+DB-BLG-12-02 - Billing Executive

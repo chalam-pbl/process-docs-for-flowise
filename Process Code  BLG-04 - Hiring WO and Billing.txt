@@ -1,0 +1,25 @@
+Process Code:  BLG-04
+Process Name:  Hiring WO (Work Order) Entry and Billing
+Department:  Billing
+Step 1	Account Executive from Sales Department sends the WO copies to the Billing Head by email				
+Step 2	If any additional details other than on the WO are required, call the associated Account Executive and create the WO (Work Order) on PLUM	
+Step 3	If the customer is Jindal, rake details and qty are picked from the drive by the Billing Executive (SP-BLG-01) - related dashboards are DB-OPS-52-03 and DB-OPS-52-04	
+Step 4	Billing Executive verifies the data entered into PLUM against the WO sent by the customer and confirms that everything is ok				
+Step 5	The Work Order is then posted by the MD on PLUM				
+Step 6	The Billing Executive collects the log sheet based on whether the billing is based on Monthly or Lumpsum or Weekly and sends the bill / invoice to the customer on the same day	
+Step 7	If it is a bill for cargo handling, Billing Executive will check the number of rakes are available as well as the type of transportation and basing on those, an invoice is created	PLUM - related dashboards are DB-OPS-52-03 and DB-BLG-73-03	
+Step 8	If the customer is Jindal, billing is done OBD number-wise based on drive (it is called "Stock at CONCOR Yard w.e.f 01.09.2023 entries - Inward & Outward") - related dashboard is 	DB-OPS-52-09
+Step 9	The Billing Executive compares the WO work hours for Overtime (OT), accommodation costs and operator charges against those from the log sheet provided from the site (which will be an XL workbook called "Monthly Hiring Status.xlsx" - Responsible person is Mr D Santosh for updation of the drive
+Step 10	The Billing Executive creates the timesheet in PLUM based on the site log sheets shared.
+Step 11 Send the draft Log sheet to customer and If customer reports any difference make corrections in PLUM - the certification from customer is co ordinated by the Supervisor and the corrections are done by the Billing Exec - related dashboard is DB-OPS-37-01					
+Step 14	The trip sheet is then tagged to the log sheet lines, which are to be authenticated by a different role, yet to be decided - the Billing Executive does the tagging.		
+Step 15	The entries are then verified, approved & posted on PLUM - this is done by the Billing Exec				
+Step 16	Once the log sheet is posted, create a proforma invoice on PLUM - this is done by the Billing Exec 
+Step 17	Send the proforma invoice to the customer for confirmation about GST, billing & invoice details - this is done by the Billing Executive via email				
+Step 18	After the customer confirms, on PLUM, complete the Approve and Verify & Post steps for this proforma invoice, making it ready for the tax invoice that is to be generated	
+Step 19	Create tax Invoice, IRN generated on PLUM & Digitally sign it
+Step 20 Send a soft copy of the Invoice & the associated PLUM Time sheet along with the site certified log sheet to the customer by mail -this is done by the Billing Exec		
+Step 21	Courier a hard copy to the customer - this is done by the Billing Assistant				
+Step 22	If the customer requires it, upload the invoice to the customer portal - this is done by the Billing Exec				
+Step 23	The hiring billing data is updated in drive by the billing exec (in an Excel workbook called "Monthly Hiring Status.xlsx") and this is shared with the Accounts Manager, 
+Step 24 The Accounts Manager will check the monthly billing amount & share with bank for billing turnover info - this is a manual process			

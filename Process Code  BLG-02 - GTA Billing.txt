@@ -1,0 +1,14 @@
+Process Code BLG-02
+Process Name GTA Billing
+Step 1	In PLUM, check in "Pending for Bill" and if there are any entries, create invoices in "Invoice to GTA"
+Step 2	Check if the freight amount, Detentions & Enroute charges are proper by verifying the details from the drive (SP-FLT-01). This is done by the Billing Exec
+	Note: Detention charges must be updated in PLUM only	
+Step 3	If any confirmation is needed contact the Fleet-in-charge						
+Step 4	Once the invoice is created, compare it with the details in the Drive (SP-FLT-01)
+Step 5	if the detentions are approved then post the Invoice on	PLUM. This is done by the Billing Exec				
+Step 6	If any detention charges are there but not approved, the Billing Assistant should confirm with the Fleet Exec & Customer and then approve the detentions.
+Step 7	After approval/confirmation from customer, Billing Assistant must print the acknowledgement and invoice, then sign the invoice manually.
+Step 8	Deliver the invoice to the customer, manually or by courier depending on the customer's preference - done by the Billing Assistant	
+Step 9	The POD no and the courier details are updated in Plum and drive by the Billing Asst (SP-T&M-03)		
+Step 10	Follow up for payment of GTA bills are done by the Fleet-in-charge and the Finance executive
+				

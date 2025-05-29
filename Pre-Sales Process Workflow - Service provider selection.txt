@@ -1,0 +1,38 @@
+Pre-Sales Process Workflow - Service provider selection
+
+Step 1:
+The Pre-Sales Executive connects with various third-party service providers and arranges demo sessions to evaluate offerings such as company data, contact details, financials, projects, tenders, import/export records, and tracking information.
+
+Step 2:
+If the service appears suitable, the Pre-Sales Executive requests sample data and validates its authenticity. Once verified, the data is uploaded to the shared drive “Companies Data 2022–2023” for management review and approval.
+
+Step 3:
+The management reviews the sample data and provides approval to proceed if the data meets the required standards.
+
+Step 4:
+Following management approval, the Pre-Sales Executive sends a payment request via email to CMD and the Accounts Team.
+
+Step 5:
+CMD reviews and approves the payment request.
+
+Step 6:
+Based on the service provider’s billing terms, if payment is required in advance, the request is made through the shared drive “Offline payments.” If an invoice is shared before payment, the request is raised through SCN in PLUM. SCN entry in PLUM is mandatory in all cases. The invoice is shared by the Pre-Sales Executive to the Data Entry Operator for SCN entry. If payment is already made, bank details are marked as N/A; if not, the required bank details are included.
+
+Step 7:
+The Accountant verifies and posts the SCN entry in PLUM. If payment has already been completed, account details are marked as N/A.
+
+Step 8:
+The Finance or Payments Executive processes the payment. After payment, the Pre-Sales Executive coordinates with the service provider to activate the services.
+
+
+Step 9:
+The Pre-Sales Executive collects customer data through service providers, field visits, and referrals and the data is uploaded to the shared drive “Companies Data 2022–2023”.
+
+Step 10:
+The Pre-Sales Executive prioritizes customers by reviewing their websites for suitability, conducting financial analysis, and checking credit ratings using Probe42. The filtered data is uploaded to the shared drive “All Branch Potential Customers Details 2024” and shared with management for approval.
+
+Step 11:
+Once approved, the Pre-Sales Executive creates leads for the qualified customers and uploads them in bulk to PLUM using the system's provided bulk upload template. Leads are assigned to the Sales Team, and if necessary, CRM Accounts and Contacts are created while generating leads in PLUM.
+
+Assigned leads to the Sales Team can be tracked in Dashboard No. 9 – “Lead Report Analysis”, while CRM contact data can be viewed in Dashboard No. 29.13 – “CRM Contacts.”
+

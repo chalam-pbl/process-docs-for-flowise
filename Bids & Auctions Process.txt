@@ -1,0 +1,25 @@
+Bids & Auctions Process
+
+Step 1: Registration on Bidding Platforms
+The Pre-Sales Executive registers the company on various online bidding platforms of different clients. The usernames and passwords for each portal are securely stored in a shared drive titled "All User IDs and Passwords" for internal reference.
+
+Step 2: Internal Coordination and Training
+The Pre-Sales Executive communicates the bidding process to the relevant Sales and Operations team members. Credentials (URLs, User IDs, and Passwords) are shared via email, and training videos on how to participate in the bidding/auction process are also provided for future reference.
+
+Step 3: Daily Bid & Auction Data Management
+All bidding and auction updates are recorded and maintained by the Pre-Sales Associate in a shared Excel file named "All Companies Auction Daily Updates.xlsx", available in a shared drive. This data is regularly shared with the concerned Sales and Operations team members.
+
+Step 4: Bid Review and Participation
+The Sales and Operations team reviews the shared bid/auction information and assesses the feasibility of participation based on workload, availability, and project alignment. Participation is decided accordingly.
+
+Step 5: Bid Status Update
+The status of each bid is updated in the same shared Excel file ("All Companies Auction Daily Updates.xlsx") with remarks indicating whether they have participated and other relevant details. This ensures complete transparency and tracking.
+
+Step 6: Work Order (WO)/ Delivery Order (DO) Collection
+If a bid is successful, the concerned member (Sales or Operations)collects the WO/DO from the customer via the respective bidding portal or through email communication.
+
+Step 7: WO Creation and Confirmation
+Before finalizing the Work Order, the concerned member (Sales or Operations) reconfirms the Billing Address and GST Number with the customer to ensure accuracy. All updates related to bids and auctions are maintained in the shared drive  "All Companies Auction Daily Updates.xlsx".
+
+Note:
+Bid and auction performance and updates can be monitored through Dashboard No. 89, titled "Auctions Report".

@@ -1,0 +1,16 @@
+Process Code:  ITH-01 - 01
+Process Name:  Purchase of IT Assets
+Department:  IT
+
+Step 1. When there is a need to purchase a fixed asset, the System Administrator informs the management verbally.
+Step 2. The System Administrator will contact the vendor to request a quotation for the required asset and will negotiate to obtain the best possible price.
+Step 3. The received quotation must be reviewed and approved by the management.
+Step 4. After approval, the System Administrator will update the fixed asset requisition accordingly.
+Step 5. A Purchase Order will be raised on the letter head, and both the PO and the quotation details will be updated in the shared drive (drive number to be added here).
+Step 6. Based on the data in the drive, the management will approve the PO, sign the physical copy, and hand it over to the System Administrator.
+Step 7. The authorized and signed PO will be scanned and sent to the vendor.
+Step 8. Upon delivery, the IT asset and the corresponding invoice will be collected. The asset will be tested for proper functioning over the course of one week by the system admin
+Step 9. If any issues are identified during the testing period, the executive will coordinate with the vendor to initiate the exchange or return process.
+Step 10. If no issues are found, the system admin will hand over the original tax invoice and a copy of the Purchase Order to the Accounts Department.
+Step 11. If the vendor is new, the newly created vendor head is verified by the accountant, Based on the drive approval from management payment request is raised by the Accountant through PLUM
+Step 12. Payment is processed by the payments executive
